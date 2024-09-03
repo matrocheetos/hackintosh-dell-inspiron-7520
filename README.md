@@ -75,7 +75,7 @@ Guide used: [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenC
 
 ## Issues
 
-* **HDMI**: external monitor isn't working on current config, [iGPU patching](https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/) may fix it
+* ~**HDMI**: external monitor isn't working on current config, [iGPU patching](https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/) may fix it~
 * **VGA**: not supported
 * **Hardware based DRM**: not supported
 * **Continuity (AirDrop, Airplay, etc.)**: not fully supported
